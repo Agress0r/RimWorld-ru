@@ -3086,41 +3086,40 @@ HECAP занимается хозяйством наравне с остальн
 Чтобы защитить будущее компании, HE проходит серьёзную военную подготовку. На случай «непредвиденных обстоятельств».</desc>
 	</SpaceTrafficker87>
 
-<!--
 	<?solid Priscilla Bellerose (Female) ?>
 	<EnergeticPopIdol4>
-		<title>Energetic pop idol</title>
-		<titleShort>Pop idol</titleShort>
-		<desc>Priscilla grew up on a glitterworld, training in rapier arts and singing. She spent several years as an energetic teen pop idol.
+		<title>Энергичная поп-звезда</title>
+		<titleShort>Поп-звезда</titleShort>
+		<desc>NAME растёт в мире-утопии, обучаясь пению и фехтованию. В конце концов HE становится юной и энергичной поп-звездой.
 
-However, she decided that the music and modeling industries were not paying her enough attention, so she left.</desc>
+Через несколько лет, посчитав, что в музыке и модельном бизнесе HIM уделяют недостаточно внимания, NAME решает уйти.</desc>
 	</EnergeticPopIdol4>
 
 	<?solid Priscilla Bellerose (Female) ?>
 	<PopIdolPirate25>
-		<title>Pop idol pirate</title>
-		<titleShort>Pirate</titleShort>
-		<desc>NAME and her fans set out as a space pirate crew. She raided corporations for money and staged performances to spread her name.
+		<title>Пират-звезда</title>
+		<titleShort>Пират</titleShort>
+		<desc>NAME собирает из своих фанатов команду космических пиратов. Они грабят корпорации, устраивая из этого целые шоу и прославляя HIS имя. Работу, которую HE считает неприглядной, HE поручает своим фанатам.
 
-NAME became afraid of fire when a rival burned her stage down. She relied on her fans to do the work she found unappealing.</desc>
+NAME начинает бояться огня, когда их сцену однажды сжигают конкуренты.</desc>
 	</PopIdolPirate25>
 
 	<?solid Tom "Blizzard" Kranenburg (Male) ?>
 	<IcePlanetChild56>
 		<title>Ice planet child</title>
 		<titleShort>Ice child</titleShort>
-		<desc>Growing up on the frozen wastes of an ocean moon, NAME only had animals and a few hard-bitten sailors as companions.
+		<desc>NAME проводит свои юные годы на холодных пустошах водного спутника планеты-гиганта. HISCAP единственными друзьями становятся лишь животные и закалённые моряки.
 
-The lack of social interaction made him develop a interest in engineering — but he never developed any great fondness for humans.</desc>
+Недостаток общения с людьми NAME компенсирует своим увлечением робототехникой.</desc>
 	</IcePlanetChild56>
 
 	<?solid Tom "Blizzard" Kranenburg (Male) ?>
 	<Roboticist87>
-		<title>Roboticist</title>
-		<titleShort>Roboticist</titleShort>
-		<desc>Sailors often died on the dangerous waters of NAME's ocean planet. HECAP created robots to replace them.
+		<title>Робототехник</title>
+		<titleShort>Робототехник</titleShort>
+		<desc>В опасных водах планеты, где живёт NAME, моряки часто гибли. Чтобы заменить их, HE конструировал роботов.
 
-Over time, he collected a small crew of robots to do his bidding. HECAP became proficient at mechanics and engineering, but lost the taste for manual labor.</desc>
+С временем у нHIS собирается целая команда из роботов. NAME совершенствует свои навыки инженера и механика, теряя интерес к ручному труду.</desc>
 	</Roboticist87>
 
 	<?solid Sa'Bikk "Sab" Saleosy (Male) ?>
@@ -3175,6 +3174,7 @@ An unfortunate lab accident left her with a deathly fear of fire.</desc>
 		<desc>NAME performed cutting-edge physics research. She wanted to help build a better and more peaceful future.</desc>
 	</ParticlePhysicist6>
 
+<!--
 	<?solid Russell "Rusty" Shackleford (Male) ?>
 	<SpeederRacer68>
 		<title>Speeder racer</title>
@@ -4022,7 +4022,7 @@ HECAP преуспевает в том, чтобы поручать другим
 
 	<?solid Daniel "Stone" Stone (Male) ?>
 	<UrbworldArmyBrat71>
-		<title>Потомок военного</title>
+		<title>Ребёнок военного</title>
 		<titleShort>Военный</titleShort>
 		<desc>NAME растёт на военной базе урбанизированного мира. Из-за малого возраста HE не может сражаться, но учится приносить пользу другими способами.
 
