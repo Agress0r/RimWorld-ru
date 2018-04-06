@@ -3265,27 +3265,27 @@ HECAP любит свою работу и стремится с её помощ�
 <!--
 	<?solid Cole "Brick" Schmidt (Male) ?>
 	<PitGladiator18>
-		<title>Pit gladiator</title>
-		<titleShort>Gladiator</titleShort>
-		<desc>NAME was enslaved as a child and forced to fight creatures and other people in an underground fighting arena.
+		<title>Яростный гладиатор</title>
+		<titleShort>Гладиатор</titleShort>
+		<desc>NAME был рабом в детсткие  года. Его заставляли сражаться с животными и другими людьми в подземной боевой арене.
 
-HECAP showed an affinity for the sport, and eventually bought his own freedom. However, his time in the pits never brought him much intellectual stimulation.</desc>
+HECAP показал близость к спорту, и в итоге выкупил себе свободу. Однако, время проведенное на арене не дало ему хорошего интеллектуального развития.</desc>
 	</PitGladiator18>
 
 	<?solid Cole "Brick" Schmidt (Male) ?>
 	<PirateTrooper88>
-		<title>Pirate trooper</title>
-		<titleShort>Trooper</titleShort>
-		<desc>NAME joined a renowned interstellar criminal organization, and was often part of shock-assault boarding parties during starship raids.
+		<title>Пиратский солдатr</title>
+		<titleShort>Солдат</titleShort>
+		<desc>NAME вступил в галактическую всеми известную креминальную организацию, и он стал частью штурмовой команды во время налётов на звездные корабли.
 
-Though his combat experience made him a good fighter, the ruthlessness of the job left HIM cold-hearted and unenthusiastic about social interaction.</desc>
+Его боевой опыт сделал из него хорошего бойца, беспощадность его работы сделала HIM хладнокровным и нейтральным к социальной жизни.</desc>
 	</PirateTrooper88>
 
 	<?solid Felix von Schild (Male) ?>
 	<FactoryWorker58>
-		<title>Factory worker</title>
-		<titleShort>Worker</titleShort>
-		<desc>Felix grew up in a large factory city on an industrial world.
+		<title>Заводской рабочий</title>
+		<titleShort>Рабочий</titleShort>
+		<desc>Феликс вырос в большем фабричном городе в индустриальном мире.
 
 Since poverty was rampant and food scarce, he worked for whatever wages he could get. This wasn't an easy life, but Felix never shied away from a hard day's work.</desc>
 	</FactoryWorker58>
